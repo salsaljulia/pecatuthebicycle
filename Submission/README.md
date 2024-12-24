@@ -5,9 +5,13 @@ This project focuses on exploring and visualizing data from the bike-sharing-dat
 
 To run this program , u need install following python framework:
 matplotlib==3.10.0
+
 pandas==2.2.3
+
 scipy==1.14.1
+
 seaborn==0.13.2
+
 streamlit==1.41.1
 
 # Setup Environment - Anaconda
